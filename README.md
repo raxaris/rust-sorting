@@ -4,7 +4,7 @@ Rust library with sorting algorhitms: merge sort, quick sort, and etc.
 ## Installation
 ## Create a new Cargo project:
 ```bash
-cargo init sorting
+cargo new sorting
 ```
 ## Navigate into directory:
 ```bash

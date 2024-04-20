@@ -1,5 +1,5 @@
 # Sorting Library
-This Rust library provides sorting algorithms including quick sort, selection sort, insertion sort, and merge sort.
+Rust library with sorting algorhitms: merge sort, quick sort, and etc.
 
 ## Installation
 ## Create a new Cargo project by running the following command in your terminal:

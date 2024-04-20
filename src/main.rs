@@ -1,9 +1,10 @@
 extern crate sortingLibrary;
 use sortingLibrary::{merge_sort, quick_sort, insertion_sort, selection_sort};
 fn main() {
-    let mut test: Vec<i32> = vec![232, 111, 23, 9999, 1234, 1, 9, -7182, -14, 333];
-    println!("Original: {:?}", numbers);
+    let mut original: Vec<i32> = vec![232, 111, 23, 9999, 1234, 1, 9, -7182, -14, 333];
+    println!("Original: {:?}", original);
 
+    let mut tests = vec![232, 111, 23, 9999, 1234, 1, 9, -7182, -14, 333];
     quick_sort(&mut test);
     println!("Quick Sort Result {:?}", test);
 

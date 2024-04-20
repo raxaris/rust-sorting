@@ -26,4 +26,4 @@ cargo run
 License
 MIT License
 
-Copyright (c) 2024 Darina Bakeyeva
+Copyright (c) 2024 Ansar Utenov

@@ -22,7 +22,7 @@ Save the Cargo.toml file and close the text editor.
 cargo build
 cargo run
 ```
-
+## Example(main.rs)
 ![image](https://github.com/raxaris/rust-sorting/assets/121044855/55888be5-ca5b-4894-8cf7-40e6391c0d99)
 
 License
